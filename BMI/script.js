@@ -1,7 +1,7 @@
 var age = parseInt(prompt("enter a age"));
 var weight = parseInt(prompt("enter a weight"));
 var height = parseInt(prompt("enter a height"));
-
+var result = '';
 var bmi = (weight/(height*height/10000)).toFixed(1);
 
 if(bmi<18.5){
