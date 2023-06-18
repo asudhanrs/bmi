@@ -1,0 +1,18 @@
+
+
+.heading {
+    display: inline-block;
+  width: 100px;
+}
+.row{
+    padding: 15px;
+}
+
+.box{
+    height: 240px;
+  width: 310px;
+  border-radius: 20px;
+  margin: 20px auto 20px auto;
+  display: block;
+    background-color: aqua;
+}
